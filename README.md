@@ -10,7 +10,16 @@
 - Prepare the environment variables by generating .env file just as .env.sample file
 - npm start
 
+## Dev Execution
+
+- npm run dev
+- ctrl + C to exit
 <br />
+
+## Info
+
+.env.sample is the sample about .env
+At first you need create a .env file and set it
 
 ## [Environment Variables](#environment-variables)
 
