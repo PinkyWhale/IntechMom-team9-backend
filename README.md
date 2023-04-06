@@ -12,7 +12,11 @@
 
 ## Dev Execution
 
-- npm run dev
+{% filename %}command-line{% endfilename %}
+
+    $ npm run dev
+
+    
 - ctrl + C to exit
 <br />
 
