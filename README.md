@@ -4,11 +4,12 @@
 
 ## Manual Installation
 
-- git clone [here goes your team repo URL]
-- cd [here goes your folder team repo name]
-- npm install
-- Prepare the environment variables by generating .env file just as .env.sample file
-- npm start
+    $ git clone [here goes your team repo URL]
+    $ cd [here goes your folder team repo name]
+    $ npm install
+
+### Prepare the environment variables by generating .env file just as .env.sample file
+    $ npm start
 
 ## Dev Execution
 
