@@ -12,7 +12,6 @@
 
 ## Dev Execution
 
-{% filename %}command-line{% endfilename %}
 
     $ npm run dev
 
